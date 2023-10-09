@@ -1,5 +1,4 @@
-# OISIP-Projects 
-#Level-2_Task-1
+# A Pretty Calculator 
 
 Created an interactive interface using CSS, HTML, and JavaScript.
 Implemented basic mathematical functionalities such as addition, subtraction, division, and multiplication.
