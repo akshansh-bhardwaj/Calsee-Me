@@ -11,7 +11,7 @@ Array.from(buttons).forEach((button)=>{
       document.querySelector('input').value = string;
     }
        else if(e.target.innerHTML == 'ON'){
-      string = "Calculator is ON";
+      string = "Calsee is ON";
       document.querySelector('input').value = string;
     }
   
